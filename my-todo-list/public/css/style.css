@@ -1,0 +1,71 @@
+ol li{
+  list-style-type: none;
+}
+body{
+  background-color: #d0d0fb;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align:center;
+}
+
+.totalToDo{
+  padding:14px 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:14px;
+}
+
+.container{
+  width: 50%;
+  height: 300px;
+  background-color: #d0d0fb;
+  margin: auto;
+}
+#clearBtn{
+  padding:14px 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:14px;
+}
+#completeBtn{
+  padding:14px 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:14px;
+}
+#addListBtn{
+  width: 20%;
+  height: 40px;
+  color: #00014d;
+  font-size: 14px;
+}
+
+#items{
+  width: 60%;
+  height: 40px;
+  color: #00014d;
+  font-size: 14px;
+}
+
+section{
+  margin-top:10%;
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  padding: 50px 0 0px 0;
+  font-family: 'Francois One', sans-serif;
+}
+
+input[placeholder="what needs to get done?"] {
+    padding:10px;
+    width:30%;
+    text-align:center;
+    font-size:12px;
+    border:5px solid #7913d3;
+    background-color:#4e0f89;
+    color:white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.strikeThrough{
+  text-decoration:line-through;
+}
+/* button {
+  display:none;
+} */
