@@ -14,3 +14,13 @@ This app works, but when the user attempts to edit an item, sometimes the text w
 ## Lessons Learned:
 
 Relying on back-end frameworks such as Node.js, Express and MongoDB to make an app functional was new to me.
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `npm run start`
+2. Navigate to `localhost:3000`
